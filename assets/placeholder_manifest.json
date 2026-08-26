@@ -1,0 +1,919 @@
+{
+  "total": 125,
+  "counts": {
+    "hero": 2,
+    "genba": 13,
+    "ryo": 24,
+    "shiro": 5,
+    "hito": 11,
+    "office": 4,
+    "flow": 7,
+    "ryogaikan": 2,
+    "meshi": 10,
+    "day": 7,
+    "safety": 4,
+    "doc": 1,
+    "beginner": 4,
+    "pro": 3,
+    "voice": 3,
+    "yoshioka": 3,
+    "diary": 12,
+    "map": 1,
+    "sns": 6,
+    "final": 3
+  },
+  "items": [
+    {
+      "id": "photo-hero-01",
+      "title": "現場または働く人の主写真・縦長ヒーロー",
+      "aspect": "portrait",
+      "flags": []
+    },
+    {
+      "id": "photo-hero-02",
+      "title": "寮または会社の補助写真",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-genba-01",
+      "title": "現場の強いカット",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-ryo-01",
+      "title": "個室寮の入口証拠",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-shiro-01",
+      "title": "シロ小カット",
+      "aspect": "square",
+      "flags": []
+    },
+    {
+      "id": "photo-hito-01",
+      "title": "住まい相談の人物/手元",
+      "aspect": "wide",
+      "flags": [
+        "release-needed"
+      ]
+    },
+    {
+      "id": "photo-genba-02",
+      "title": "未経験の入口になる作業",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-genba-03",
+      "title": "経験者向けの現場感",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-office-01",
+      "title": "会社外観/入口",
+      "aspect": "wide",
+      "flags": [
+        "不足素材"
+      ]
+    },
+    {
+      "id": "photo-office-02",
+      "title": "事務所内/受付",
+      "aspect": "wide",
+      "flags": [
+        "要撮影"
+      ]
+    },
+    {
+      "id": "photo-flow-01",
+      "title": "仕事紹介の流れ図用写真",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-ryogaikan-01",
+      "title": "寮外観・全景",
+      "aspect": "wide",
+      "flags": [
+        "不足素材"
+      ]
+    },
+    {
+      "id": "photo-ryo-02",
+      "title": "寮入口",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-ryo-03",
+      "title": "個室全景",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-meshi-01",
+      "title": "食堂/配膳",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-ryo-04",
+      "title": "サウナ入口",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-ryo-05",
+      "title": "共用スペース",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-ryo-room-01",
+      "title": "個室・入口から全景",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-ryo-room-02",
+      "title": "ベッド/寝具",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-ryo-room-03",
+      "title": "収納/荷物置き",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-ryo-room-04",
+      "title": "窓/採光",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-ryo-room-05",
+      "title": "机/コンセント",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-ryo-room-06",
+      "title": "鍵/扉まわり",
+      "aspect": "square",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-ryo-sauna-01",
+      "title": "サウナ室内",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-ryo-sauna-02",
+      "title": "サウナ入口/利用案内",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-ryo-bath-01",
+      "title": "浴室",
+      "aspect": "wide",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-ryo-laundry-01",
+      "title": "洗濯機/ランドリー",
+      "aspect": "wide",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-ryo-common-01",
+      "title": "洗面/共用部",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-ryo-common-02",
+      "title": "廊下/動線",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-meshi-02",
+      "title": "朝食例",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-meshi-03",
+      "title": "昼食例",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-meshi-04",
+      "title": "夕食例",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-meshi-05",
+      "title": "定食/ごはん",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-meshi-06",
+      "title": "鍋/大皿",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-meshi-07",
+      "title": "肉料理",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-meshi-08",
+      "title": "食堂の雰囲気",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-meshi-09",
+      "title": "配膳/受け取り",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-meshi-10",
+      "title": "1週間メニュー例用",
+      "aspect": "wide",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-ryo-wifi-01",
+      "title": "Wi-Fi/通信案内",
+      "aspect": "square",
+      "flags": []
+    },
+    {
+      "id": "photo-ryo-life-01",
+      "title": "コンセント/電源",
+      "aspect": "square",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-ryo-life-02",
+      "title": "冷暖房",
+      "aspect": "wide",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-ryo-life-03",
+      "title": "寝具/備品",
+      "aspect": "wide",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-ryogaikan-02",
+      "title": "周辺外観/道順",
+      "aspect": "wide",
+      "flags": [
+        "不足素材"
+      ]
+    },
+    {
+      "id": "photo-ryo-rule-01",
+      "title": "掲示物/ルール案内",
+      "aspect": "wide",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-ryo-rule-02",
+      "title": "共用部の使い方",
+      "aspect": "wide",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-flow-02",
+      "title": "相談/スマホ操作",
+      "aspect": "portrait",
+      "flags": []
+    },
+    {
+      "id": "photo-flow-03",
+      "title": "持ち物一式",
+      "aspect": "wide",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-flow-04",
+      "title": "入寮時の荷物",
+      "aspect": "wide",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-ryo-06",
+      "title": "寮到着/入口",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-genba-04",
+      "title": "現場カテゴリA",
+      "aspect": "wide",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-genba-05",
+      "title": "現場カテゴリB",
+      "aspect": "wide",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-genba-06",
+      "title": "未経験が担当しやすい作業",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-genba-07",
+      "title": "経験者向け作業",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-genba-08",
+      "title": "屋外現場",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-genba-09",
+      "title": "屋内/準備作業",
+      "aspect": "wide",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-genba-real-01",
+      "title": "暑さ/寒さなど現場環境",
+      "aspect": "wide",
+      "flags": [
+        "要取材"
+      ]
+    },
+    {
+      "id": "photo-genba-real-02",
+      "title": "休憩/水分補給",
+      "aspect": "wide",
+      "flags": [
+        "要取材"
+      ]
+    },
+    {
+      "id": "photo-genba-real-03",
+      "title": "安全確認",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-genba-real-04",
+      "title": "帰寮前後の表情",
+      "aspect": "wide",
+      "flags": [
+        "release-needed"
+      ]
+    },
+    {
+      "id": "photo-day-01",
+      "title": "朝の寮/起床",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-day-02",
+      "title": "朝食",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-day-03",
+      "title": "移動/集合",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-day-04",
+      "title": "朝礼/準備",
+      "aspect": "wide",
+      "flags": [
+        "release-needed"
+      ]
+    },
+    {
+      "id": "photo-day-05",
+      "title": "作業中",
+      "aspect": "wide",
+      "flags": [
+        "release-needed"
+      ]
+    },
+    {
+      "id": "photo-day-06",
+      "title": "休憩",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-day-07",
+      "title": "帰寮/夕食",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-safety-01",
+      "title": "ヘルメット/保護具",
+      "aspect": "square",
+      "flags": []
+    },
+    {
+      "id": "photo-safety-02",
+      "title": "朝礼/安全確認",
+      "aspect": "wide",
+      "flags": [
+        "release-needed"
+      ]
+    },
+    {
+      "id": "photo-safety-03",
+      "title": "掲示物/ルール",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-safety-04",
+      "title": "教育/説明風景",
+      "aspect": "wide",
+      "flags": [
+        "要確認",
+        "release-needed"
+      ]
+    },
+    {
+      "id": "photo-doc-01",
+      "title": "条件確認/書類イメージ",
+      "aspect": "wide",
+      "flags": [
+        "個人情報注意"
+      ]
+    },
+    {
+      "id": "photo-beginner-01",
+      "title": "初日説明",
+      "aspect": "wide",
+      "flags": [
+        "release-needed",
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-beginner-02",
+      "title": "道具/服装確認",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-beginner-03",
+      "title": "先輩に聞く",
+      "aspect": "wide",
+      "flags": [
+        "release-needed"
+      ]
+    },
+    {
+      "id": "photo-beginner-04",
+      "title": "1週間ロードマップ",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-pro-01",
+      "title": "経験者向け現場",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-pro-02",
+      "title": "資格/道具",
+      "aspect": "wide",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-pro-03",
+      "title": "職人の手元",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-hito-rep-01",
+      "title": "代表ポートレート",
+      "aspect": "portrait",
+      "flags": [
+        "release-needed",
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-hito-rep-02",
+      "title": "代表の仕事風景",
+      "aspect": "wide",
+      "flags": [
+        "release-needed",
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-hito-02",
+      "title": "スタッフA",
+      "aspect": "portrait",
+      "flags": [
+        "release-needed"
+      ]
+    },
+    {
+      "id": "photo-hito-03",
+      "title": "スタッフB",
+      "aspect": "portrait",
+      "flags": [
+        "release-needed"
+      ]
+    },
+    {
+      "id": "photo-hito-04",
+      "title": "スタッフC",
+      "aspect": "portrait",
+      "flags": [
+        "release-needed"
+      ]
+    },
+    {
+      "id": "photo-hito-05",
+      "title": "スタッフD",
+      "aspect": "portrait",
+      "flags": [
+        "release-needed"
+      ]
+    },
+    {
+      "id": "photo-hito-06",
+      "title": "チーム集合",
+      "aspect": "wide",
+      "flags": [
+        "release-needed"
+      ]
+    },
+    {
+      "id": "photo-hito-07",
+      "title": "相談シーン",
+      "aspect": "wide",
+      "flags": [
+        "release-needed"
+      ]
+    },
+    {
+      "id": "photo-voice-01",
+      "title": "先輩の声A",
+      "aspect": "portrait",
+      "flags": [
+        "release-needed",
+        "要取材"
+      ]
+    },
+    {
+      "id": "photo-voice-02",
+      "title": "先輩の声B",
+      "aspect": "portrait",
+      "flags": [
+        "release-needed",
+        "要取材"
+      ]
+    },
+    {
+      "id": "photo-voice-03",
+      "title": "先輩の声C",
+      "aspect": "portrait",
+      "flags": [
+        "release-needed",
+        "要取材"
+      ]
+    },
+    {
+      "id": "photo-shiro-02",
+      "title": "シロ正面",
+      "aspect": "square",
+      "flags": []
+    },
+    {
+      "id": "photo-shiro-03",
+      "title": "シロ日常",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-shiro-04",
+      "title": "シロと会社",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-shiro-05",
+      "title": "シロ小物/足跡",
+      "aspect": "square",
+      "flags": []
+    },
+    {
+      "id": "photo-yoshioka-01",
+      "title": "吉岡くん静止画A",
+      "aspect": "portrait",
+      "flags": [
+        "release-needed",
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-yoshioka-02",
+      "title": "吉岡くんとシロB",
+      "aspect": "wide",
+      "flags": [
+        "release-needed",
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-yoshioka-03",
+      "title": "動画からの静止画C",
+      "aspect": "wide",
+      "flags": [
+        "release-needed",
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-diary-01",
+      "title": "寮の日常",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-diary-02",
+      "title": "食事の日常",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-diary-03",
+      "title": "現場準備",
+      "aspect": "wide",
+      "flags": [
+        "release-needed"
+      ]
+    },
+    {
+      "id": "photo-diary-04",
+      "title": "帰寮後",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-diary-05",
+      "title": "シロの日常",
+      "aspect": "square",
+      "flags": []
+    },
+    {
+      "id": "photo-diary-06",
+      "title": "イベント/交流",
+      "aspect": "wide",
+      "flags": [
+        "release-needed"
+      ]
+    },
+    {
+      "id": "photo-diary-07",
+      "title": "会社前",
+      "aspect": "wide",
+      "flags": [
+        "release-needed"
+      ]
+    },
+    {
+      "id": "photo-diary-08",
+      "title": "筋トレ/共用設備",
+      "aspect": "wide",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-diary-09",
+      "title": "スタッフの手元",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-diary-10",
+      "title": "季節の一枚",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-diary-11",
+      "title": "食堂の空気",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-diary-12",
+      "title": "寮の夜/外観",
+      "aspect": "wide",
+      "flags": [
+        "不足素材"
+      ]
+    },
+    {
+      "id": "photo-hito-08",
+      "title": "人物スナップA",
+      "aspect": "wide",
+      "flags": [
+        "release-needed",
+        "要取材"
+      ]
+    },
+    {
+      "id": "photo-hito-09",
+      "title": "人物スナップB",
+      "aspect": "wide",
+      "flags": [
+        "release-needed",
+        "要取材"
+      ]
+    },
+    {
+      "id": "photo-flow-05",
+      "title": "担当者/連絡シーン",
+      "aspect": "portrait",
+      "flags": [
+        "release-needed",
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-flow-06",
+      "title": "面談/相談イメージ",
+      "aspect": "wide",
+      "flags": [
+        "release-needed",
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-flow-07",
+      "title": "入寮/勤務開始",
+      "aspect": "wide",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-office-03",
+      "title": "会社外観/看板",
+      "aspect": "wide",
+      "flags": [
+        "不足素材"
+      ]
+    },
+    {
+      "id": "photo-office-04",
+      "title": "入口目印",
+      "aspect": "wide",
+      "flags": [
+        "不足素材"
+      ]
+    },
+    {
+      "id": "photo-map-01",
+      "title": "地図/周辺",
+      "aspect": "wide",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-sns-01",
+      "title": "SNS投稿サムネA",
+      "aspect": "square",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-sns-02",
+      "title": "SNS投稿サムネB",
+      "aspect": "square",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-sns-03",
+      "title": "SNS投稿サムネC",
+      "aspect": "square",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-sns-04",
+      "title": "SNS投稿サムネD",
+      "aspect": "square",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-sns-05",
+      "title": "SNS投稿サムネE",
+      "aspect": "square",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-sns-06",
+      "title": "SNS投稿サムネF",
+      "aspect": "square",
+      "flags": [
+        "要確認"
+      ]
+    },
+    {
+      "id": "photo-final-01",
+      "title": "寮コラージュ",
+      "aspect": "wide",
+      "flags": []
+    },
+    {
+      "id": "photo-final-02",
+      "title": "人コラージュ",
+      "aspect": "wide",
+      "flags": [
+        "release-needed"
+      ]
+    },
+    {
+      "id": "photo-final-03",
+      "title": "シロコラージュ",
+      "aspect": "square",
+      "flags": []
+    }
+  ]
+}

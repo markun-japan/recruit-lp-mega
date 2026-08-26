@@ -1,0 +1,47 @@
+{
+  "root": "C:\\Users\\bejir\\Desktop\\クロー\\recruit-lp-mega",
+  "videoDir": "C:\\Users\\bejir\\Desktop\\クロー\\recruit-lp-mega\\assets\\video",
+  "posterDir": "C:\\Users\\bejir\\Desktop\\クロー\\recruit-lp-mega\\assets\\poster",
+  "copied": [
+    {
+      "id": "video-pr-company-01",
+      "src": "C:\\Users\\bejir\\Desktop\\クロー\\映像\\会社PR_シロと吉岡_20260822\\会社PR_X投稿用_final.mp4",
+      "dest": "C:\\Users\\bejir\\Desktop\\クロー\\recruit-lp-mega\\assets\\video\\video-pr-company-01.mp4"
+    },
+    {
+      "id": "video-shiro-intro-01",
+      "src": "C:\\Users\\bejir\\Desktop\\クロー\\映像\\シロ自己紹介_20260821\\seedance2-5_Video_20260821_234536.mp4",
+      "dest": "C:\\Users\\bejir\\Desktop\\クロー\\recruit-lp-mega\\assets\\video\\video-shiro-intro-01.mp4"
+    },
+    {
+      "id": "video-yoshioka-shiro-01",
+      "src": "C:\\Users\\bejir\\Desktop\\クロー\\映像\\会社PR_シロと吉岡_20260822\\seedance2-5_Video_20260822_010955.mp4",
+      "dest": "C:\\Users\\bejir\\Desktop\\クロー\\recruit-lp-mega\\assets\\video\\video-yoshioka-shiro-01.mp4"
+    }
+  ],
+  "missing": [],
+  "placeholderTotal": 125,
+  "placeholderCounts": {
+    "hero": 2,
+    "genba": 13,
+    "ryo": 24,
+    "shiro": 5,
+    "hito": 11,
+    "office": 4,
+    "flow": 7,
+    "ryogaikan": 2,
+    "meshi": 10,
+    "day": 7,
+    "safety": 4,
+    "doc": 1,
+    "beginner": 4,
+    "pro": 3,
+    "voice": 3,
+    "yoshioka": 3,
+    "diary": 12,
+    "map": 1,
+    "sns": 6,
+    "final": 3
+  },
+  "generatedAt": "2026-08-26T06:33:50.674Z"
+}
